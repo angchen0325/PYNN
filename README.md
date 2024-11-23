@@ -8,3 +8,5 @@ To understand the great power of deep learning promoting social progress. I'm go
 
 
 ### Make your own neural network
+
+In this section, I'm going to review the content of the book *Make your own neural network* by Tariq Rashid.
