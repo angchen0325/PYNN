@@ -1,6 +1,6 @@
 # PYNN
 
-To understand the great power of deep learning promoting social progress. I'm going to make some neural networks with python in this repository. Here `PYNN` is the abbreviation for `PYthon Neural Networks`.
+To understand the great power of deep learning promoting social progress. I'm going to make sevaral neural networks with python in this repository. Here `PYNN` is the abbreviation for `PYthon Neural Networks`.
 
 
 ## Contents
