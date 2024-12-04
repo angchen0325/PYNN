@@ -24,10 +24,10 @@ Manim Practice/
 
 ### Make your own neural network
 
-In this section, I'm going to review the content of the book *Make your own neural network* by Tariq Rashid.
+In this section, I'm going to review the content of the book [*Make your own neural network*](https://www.amazon.sg/Make-Your-Own-Neural-Network/dp/1530826608) by Tariq Rashid.
 
 ### Make your first GAN with PyTorch
 
-In this section, I'm going to review the content of the book *Make your first GAN with PyTorch* by Tariq Rashid.
+In this section, I'm going to review the content of the book [*Make your first GAN with PyTorch*](https://www.amazon.sg/Make-Your-First-GAN-PyTorch/dp/B085RNKXPD) by Tariq Rashid.
 
 <!-- Please see details in <a href="./sec01_make-your-own-neural-network/README.md" alt="Please see the link for details">:link: Sec 01. Make your own neural network</a> -->
