@@ -1,0 +1,4 @@
+.DS_Store
+
+./01_make_your_own_neural_network/mnist-dataset/mnist_test.csv
+./01_make_your_own_neural_network/mnist-dataset/mnist_train.csv
